@@ -1,6 +1,0 @@
-(cl:in-package smart_can_msgs-msg)
-(cl:export '(FEEDBACKSTEERINGANGLE-VAL
-          FEEDBACKSTEERINGANGLE
-          FEEDBACKBRAKEPEDALANGLE-VAL
-          FEEDBACKBRAKEPEDALANGLE
-))

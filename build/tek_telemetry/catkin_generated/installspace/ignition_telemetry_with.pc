@@ -1,8 +1,0 @@
-prefix=/home/qb/teknofest_telemetry/install
-
-Name: ignition_telemetry_with
-Description: Description of ignition_telemetry_with
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: roscpp std_msgs geometry_msgs smart_can_msgs

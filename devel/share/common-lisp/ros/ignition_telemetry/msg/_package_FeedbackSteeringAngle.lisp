@@ -1,6 +1,0 @@
-(cl:in-package ignition_telemetry-msg)
-(cl:export '(FEEDBACKSTEERINGANGLE-VAL
-          FEEDBACKSTEERINGANGLE
-          FEEDBACKBRAKEPEDALANGLE-VAL
-          FEEDBACKBRAKEPEDALANGLE
-))

@@ -1,2 +1,0 @@
-ignition_telemetry_old:smart_can_msgs:tek_telemetry
--DCATKIN_DEVEL_PREFIX=/home/qb/teknofest_telemetry/devel -DCMAKE_INSTALL_PREFIX=/home/qb/teknofest_telemetry/install -G Unix Makefiles
