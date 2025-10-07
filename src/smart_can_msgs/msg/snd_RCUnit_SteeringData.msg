@@ -1,0 +1,4 @@
+uint8 RC_Steering_RightLimit
+uint8 RC_Steering_LeftLimit
+uint16 RC_SteeringPWM
+uint8 RC_SteeringDirection

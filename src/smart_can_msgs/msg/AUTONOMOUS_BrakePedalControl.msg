@@ -1,0 +1,4 @@
+uint8 AUTONOMOUS_BrakeMotor_Voltage
+uint8 AUTONOMOUS_BrakePedalMotor_PER
+uint16 AUTONOMOUS_BrakePedalMotor_ACC
+uint8 AUTONOMOUS_BrakePedalMotor_EN

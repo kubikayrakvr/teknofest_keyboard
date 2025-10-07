@@ -1,0 +1,3 @@
+uint8 GEAR_STATUS_FROM_MOTOR
+uint16 PlusTripDistance
+uint16 VehicleRPM

@@ -1,0 +1,3 @@
+uint8 FB_VehicleSpeed_KMh
+uint8 FB_ReelVehicleSpeed_KMh
+uint8 FB_ReelVehicleSpeed_Ms

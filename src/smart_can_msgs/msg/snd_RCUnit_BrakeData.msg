@@ -1,0 +1,3 @@
+uint16 RC_BrakePedal_Speed
+uint16 RC_BrakePedal_Acc
+uint8 RC_BrakePedal_Pos

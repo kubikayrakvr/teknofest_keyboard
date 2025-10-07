@@ -1,0 +1,10 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/qb/sim/carlasim/carla_simulator/PythonAPI/carla/dist/carla-0.9.15-py3.8-linux-x86_64.egg"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/qb/sim/carlasim/carla_simulator/PythonAPI/carla/dist/carla-0.9.15-py3.8-linux-x86_64.egg"
+    ]
+}

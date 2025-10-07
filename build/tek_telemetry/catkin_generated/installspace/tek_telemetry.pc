@@ -1,0 +1,8 @@
+prefix=/home/qb/teknofest_telemetry/install
+
+Name: tek_telemetry
+Description: Description of tek_telemetry
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs geometry_msgs smart_can_msgs
